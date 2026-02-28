@@ -1,14 +1,16 @@
-<h1 align="center">Hi there, I'm Subhadip Jana 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b4a,100:00d4aa&height=220&section=header&text=Subhadip%20Jana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bioinformatician%20%C2%B7%20Metagenomics%20Researcher%20%C2%B7%20ML%20for%20Omics&descSize=18&descAlignY=55&descColor=88ddbb" width="100%" />
+</p>
 
 <p align="center">
-  <em>Bioinformatician · Metagenomics Researcher · ML for Omics</em><br>
-  <em>West Bengal, India 🇮🇳</em>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=🧬+Decoding+the+Gut+Microbiome;🤖+ML+%2B+Multi-Omics+Integration;🔬+Antibiotic+Resistance+Genomics;🌊+Environmental+eDNA+Metagenomics" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/subhadip-jana1409"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:subhadipjana1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SubhadipJana1409"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@subhadipjana1409"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,6 +48,10 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github,docker,vscode,jupyter&theme=dark" />
+</p>
+
 **Bioinformatics Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -68,6 +74,14 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhadipJana1409&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,6 +91,14 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SubhadipJana1409&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---
@@ -100,6 +122,16 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 | [Short-Chain-Fatty-Acid-Prediction](https://github.com/SubhadipJana1409/Short-Chain-Fatty-Acid-Prediction) | — | Python | today |
 | [Firmicutes-Bacteroidetes_Ratio_Tracker](https://github.com/SubhadipJana1409/Firmicutes-Bacteroidetes_Ratio_Tracker) | — | Python | 1 day ago |
 <!--END_SECTION:repos-->
+
+---
+
+## 📝 Latest Blog Posts
+
+<!--START_SECTION:blog-posts-->
+<!-- BLOG-POST-LIST:START -->
+- Blog posts will appear here after the first workflow run!
+<!-- BLOG-POST-LIST:END -->
+<!--END_SECTION:blog-posts-->
 
 ---
 
@@ -141,8 +173,40 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 
 ---
 
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<!--
+## 🎵 Spotify Now Playing
+> **Setup needed:** Deploy https://github.com/kittinan/spotify-github-profile to Vercel with your Spotify account, then uncomment this section and add your widget URL.
+
+<p align="center">
+  <img src="REPLACE_WITH_YOUR_SPOTIFY_WIDGET_URL" />
+</p>
+-->
+
+<!--
+## ⏱️ WakaTime Stats
+> **Setup needed:** Install WakaTime extension in VS Code, then add your API key as a repo secret named `WAKATIME_API_KEY`, and uncomment the wakatime workflow.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+-->
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SubhadipJana1409&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center"><i>"The microbiome is not just a part of us — it is us."</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b4a,100:00d4aa&height=120&section=footer" width="100%" />
+</p>
