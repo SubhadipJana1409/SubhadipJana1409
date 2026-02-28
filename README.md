@@ -93,7 +93,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10658](https://github.com/js-org/js.org/pull/10658#issuecomment-3907057453) in [js-org/js.org](https://github.com/js-org/js.org)
+1. 🎉 Merged PR [#1](https://github.com/Subhadip1409/test-achievement/pull/1) in [Subhadip1409/test-achievement](https://github.com/Subhadip1409/test-achievement)
 <!--END_SECTION:activity-->
 
 ---
