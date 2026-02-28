@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=🧬+Decoding+the+Gut+Microbiome;🤖+ML+%2B+Multi-Omics+Integration;🔬+Antibiotic+Resistance+Genomics;🌊+Environmental+eDNA+Metagenomics" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%A7%AC+Decoding+the+Gut+Microbiome;%F0%9F%A4%96+ML+%2B+Multi-Omics+Integration;%F0%9F%94%AC+Antibiotic+Resistance+Genomics;%F0%9F%8C%8A+Environmental+eDNA+Metagenomics&v=2" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhadipJana1409&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=SubhadipJana1409&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
