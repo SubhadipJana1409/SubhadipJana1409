@@ -190,14 +190,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 </p>
 -->
 
-<!--
 ## ⏱️ WakaTime Stats
-> **Setup needed:** Install WakaTime extension in VS Code, then add your API key as a repo secret named `WAKATIME_API_KEY`, and uncomment the wakatime workflow.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=subhadipjana&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
--->
 
 ---
 
