@@ -75,6 +75,28 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipJana1409&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SubhadipJana1409&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Activity will appear here after the first workflow run!
+<!--END_SECTION:activity-->
+
+---
+
+## 📂 Latest Repositories
+
+<!--START_SECTION:repos-->
+| Repository | Description | Language | Updated |
+|------------|-------------|----------|---------|
+| *Repos will appear here after the first workflow run!* | | | |
+<!--END_SECTION:repos-->
+
 ---
 
 ## 🎓 Education
@@ -102,6 +124,16 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
   💼 <a href="https://linkedin.com/in/subhadip-jana1409">LinkedIn</a> &nbsp;|&nbsp;
   🐙 <a href="https://github.com/SubhadipJana1409">GitHub</a>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubhadipJana1409/SubhadipJana1409/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SubhadipJana1409/SubhadipJana1409/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SubhadipJana1409/SubhadipJana1409/output/github-snake.svg" />
+</picture>
 
 ---
 
