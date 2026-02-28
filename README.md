@@ -82,19 +82,6 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhadipJana1409&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipJana1409&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SubhadipJana1409&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🧊 3D Contribution Graph
 
 <p align="center">
