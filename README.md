@@ -129,8 +129,8 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 
 <!--START_SECTION:blog-posts-->
 <!-- BLOG-POST-LIST:START -->
-- Blog posts will appear here after the first workflow run!
-<!-- BLOG-POST-LIST:END -->
+- 📄 [What’s Next After CAR-T?](https://medium.com/@subhadipjana1409/whats-next-after-car-t-874c7ffc13bf?source=rss-c594b02fa20f------2) — 1717 DD, 2025
+- 📄 [CAR-T Cell Therapy: Engineering Immunity Against Cancer](https://medium.com/@subhadipjana1409/car-t-cell-therapy-engineering-immunity-against-cancer-ba5d823943a7?source=rss-c594b02fa20f------2) — 1414 DD, 2025<!-- BLOG-POST-LIST:END -->
 <!--END_SECTION:blog-posts-->
 
 ---
