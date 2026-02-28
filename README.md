@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=🧬+Decoding+the+Gut+Microbiome;🤖+ML+%2B+Multi-Omics+Integration;🔬+Antibiotic+Resistance+Genomics;🌊+Environmental+eDNA+Metagenomics" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=🧬+Decoding+the+Gut+Microbiome;🤖+ML+%2B+Multi-Omics+Integration;🔬+Antibiotic+Resistance+Genomics;🌊+Environmental+eDNA+Metagenomics" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
