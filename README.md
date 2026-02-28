@@ -106,7 +106,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Activity will appear here after the first workflow run!
+1. 🗣 Commented on [#10658](https://github.com/js-org/js.org/pull/10658#issuecomment-3907057453) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 ---
