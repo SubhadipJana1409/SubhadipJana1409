@@ -105,7 +105,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 |------------|-------------|----------|---------|
 | [Longitudinal-Microbiome-Stability-Analysis](https://github.com/SubhadipJana1409/Longitudinal-Microbiome-Stability-Analysis) | — | Python | today |
 | [Microbiome-Network-Analysis](https://github.com/SubhadipJana1409/Microbiome-Network-Analysis) | — | Python | today |
-| [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | today |
+| [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 1 day ago |
 | [Short-Chain-Fatty-Acid-Prediction](https://github.com/SubhadipJana1409/Short-Chain-Fatty-Acid-Prediction) | — | Python | 1 day ago |
 | [Firmicutes-Bacteroidetes_Ratio_Tracker](https://github.com/SubhadipJana1409/Firmicutes-Bacteroidetes_Ratio_Tracker) | — | Python | 1 day ago |
 <!--END_SECTION:repos-->
