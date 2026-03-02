@@ -103,11 +103,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
+| [AMR-Trend-Analysis](https://github.com/SubhadipJana1409/AMR-Trend-Analysis) | — | Python | today |
+| [Clinical-AMR-Risk-Scoring](https://github.com/SubhadipJana1409/Clinical-AMR-Risk-Scoring) | — | Python | today |
+| [Ensemble-Stacking-Classifier](https://github.com/SubhadipJana1409/Ensemble-Stacking-Classifier) | — | Python | today |
+| [MIC-Value-Prediction](https://github.com/SubhadipJana1409/MIC-Value-Prediction) | — | Python | today |
 | [Gradient-Boosting-SHAP-explainability](https://github.com/SubhadipJana1409/Gradient-Boosting-SHAP-explainability) | — | Python | today |
-| [Multi-label-RF-Classifier](https://github.com/SubhadipJana1409/Multi-label-RF-Classifier) | — | Python | today |
-| [AMR-Prevalence-Profiling](https://github.com/SubhadipJana1409/AMR-Prevalence-Profiling) | — | Python | today |
-| [Longitudinal-Microbiome-Stability-Analysis](https://github.com/SubhadipJana1409/Longitudinal-Microbiome-Stability-Analysis) | — | Python | 1 day ago |
-| [Microbiome-Network-Analysis](https://github.com/SubhadipJana1409/Microbiome-Network-Analysis) | — | Python | 1 day ago |
 <!--END_SECTION:repos-->
 
 ---
