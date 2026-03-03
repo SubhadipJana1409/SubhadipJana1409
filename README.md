@@ -104,10 +104,10 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
 | [AMR-Co-resistance-Network-Analysis](https://github.com/SubhadipJana1409/AMR-Co-resistance-Network-Analysis) | — | Python | today |
-| [AMR-Trend-Analysis](https://github.com/SubhadipJana1409/AMR-Trend-Analysis) | — | Python | today |
-| [Clinical-AMR-Risk-Scoring](https://github.com/SubhadipJana1409/Clinical-AMR-Risk-Scoring) | — | Python | today |
-| [Ensemble-Stacking-Classifier](https://github.com/SubhadipJana1409/Ensemble-Stacking-Classifier) | — | Python | today |
-| [MIC-Value-Prediction](https://github.com/SubhadipJana1409/MIC-Value-Prediction) | — | Python | today |
+| [AMR-Trend-Analysis](https://github.com/SubhadipJana1409/AMR-Trend-Analysis) | — | Python | 1 day ago |
+| [Clinical-AMR-Risk-Scoring](https://github.com/SubhadipJana1409/Clinical-AMR-Risk-Scoring) | — | Python | 1 day ago |
+| [Ensemble-Stacking-Classifier](https://github.com/SubhadipJana1409/Ensemble-Stacking-Classifier) | — | Python | 1 day ago |
+| [MIC-Value-Prediction](https://github.com/SubhadipJana1409/MIC-Value-Prediction) | — | Python | 1 day ago |
 <!--END_SECTION:repos-->
 
 ---
