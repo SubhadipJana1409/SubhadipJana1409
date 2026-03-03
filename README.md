@@ -105,7 +105,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 |------------|-------------|----------|---------|
 | [SNP-Variant-Analysis](https://github.com/SubhadipJana1409/SNP-Variant-Analysis) | — | Python | today |
 | [Genome-Sequence-Analysis](https://github.com/SubhadipJana1409/Genome-Sequence-Analysis) | — | Python | today |
-| [AMR-Co-resistance-Network-Analysis](https://github.com/SubhadipJana1409/AMR-Co-resistance-Network-Analysis) | — | Python | today |
+| [AMR-Co-resistance-Network-Analysis](https://github.com/SubhadipJana1409/AMR-Co-resistance-Network-Analysis) | — | Python | 1 day ago |
 | [AMR-Trend-Analysis](https://github.com/SubhadipJana1409/AMR-Trend-Analysis) | — | Python | 1 day ago |
 | [Clinical-AMR-Risk-Scoring](https://github.com/SubhadipJana1409/Clinical-AMR-Risk-Scoring) | — | Python | 1 day ago |
 <!--END_SECTION:repos-->
