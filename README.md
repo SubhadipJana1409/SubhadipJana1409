@@ -104,10 +104,10 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
 | [RNA-seq-DEG-analysis](https://github.com/SubhadipJana1409/RNA-seq-DEG-analysis) | — | Python | today |
-| [SNP-Variant-Analysis](https://github.com/SubhadipJana1409/SNP-Variant-Analysis) | — | Python | today |
-| [Genome-Sequence-Analysis](https://github.com/SubhadipJana1409/Genome-Sequence-Analysis) | — | Python | today |
+| [SNP-Variant-Analysis](https://github.com/SubhadipJana1409/SNP-Variant-Analysis) | — | Python | 1 day ago |
+| [Genome-Sequence-Analysis](https://github.com/SubhadipJana1409/Genome-Sequence-Analysis) | — | Python | 1 day ago |
 | [AMR-Co-resistance-Network-Analysis](https://github.com/SubhadipJana1409/AMR-Co-resistance-Network-Analysis) | — | Python | 1 day ago |
-| [AMR-Trend-Analysis](https://github.com/SubhadipJana1409/AMR-Trend-Analysis) | — | Python | 1 day ago |
+| [AMR-Trend-Analysis](https://github.com/SubhadipJana1409/AMR-Trend-Analysis) | — | Python | 2 days ago |
 <!--END_SECTION:repos-->
 
 ---
