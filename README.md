@@ -103,11 +103,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
+| [scRNA-gut-clustering](https://github.com/SubhadipJana1409/scRNA-gut-clustering) | — | Python | today |
 | [Biomarker-Discovery-with-SHAP](https://github.com/SubhadipJana1409/Biomarker-Discovery-with-SHAP) | — | Python | today |
 | [AMR-Phenotype-Predictor](https://github.com/SubhadipJana1409/AMR-Phenotype-Predictor) | — | Python | today |
-| [RNA-seq-DEG-analysis](https://github.com/SubhadipJana1409/RNA-seq-DEG-analysis) | — | Python | today |
-| [SNP-Variant-Analysis](https://github.com/SubhadipJana1409/SNP-Variant-Analysis) | — | Python | 1 day ago |
-| [Genome-Sequence-Analysis](https://github.com/SubhadipJana1409/Genome-Sequence-Analysis) | — | Python | 1 day ago |
+| [RNA-seq-DEG-analysis](https://github.com/SubhadipJana1409/RNA-seq-DEG-analysis) | — | Python | 1 day ago |
+| [SNP-Variant-Analysis](https://github.com/SubhadipJana1409/SNP-Variant-Analysis) | — | Python | 2 days ago |
 <!--END_SECTION:repos-->
 
 ---
