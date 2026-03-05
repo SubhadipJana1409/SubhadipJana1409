@@ -103,11 +103,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
+| [Bulk-RNA-seq-differential-expression](https://github.com/SubhadipJana1409/Bulk-RNA-seq-differential-expression) | — | — | today |
+| [Microbiome-based-Disease-Classifie](https://github.com/SubhadipJana1409/Microbiome-based-Disease-Classifie) | — | Python | today |
 | [scRNA-gut-clustering](https://github.com/SubhadipJana1409/scRNA-gut-clustering) | — | Python | today |
-| [Biomarker-Discovery-with-SHAP](https://github.com/SubhadipJana1409/Biomarker-Discovery-with-SHAP) | — | Python | today |
-| [AMR-Phenotype-Predictor](https://github.com/SubhadipJana1409/AMR-Phenotype-Predictor) | — | Python | today |
-| [RNA-seq-DEG-analysis](https://github.com/SubhadipJana1409/RNA-seq-DEG-analysis) | — | Python | 1 day ago |
-| [SNP-Variant-Analysis](https://github.com/SubhadipJana1409/SNP-Variant-Analysis) | — | Python | 2 days ago |
+| [Biomarker-Discovery-with-SHAP](https://github.com/SubhadipJana1409/Biomarker-Discovery-with-SHAP) | — | Python | 1 day ago |
+| [AMR-Phenotype-Predictor](https://github.com/SubhadipJana1409/AMR-Phenotype-Predictor) | — | Python | 1 day ago |
 <!--END_SECTION:repos-->
 
 ---
