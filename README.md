@@ -93,7 +93,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Subhadip1409/test-achievement/pull/1) in [Subhadip1409/test-achievement](https://github.com/Subhadip1409/test-achievement)
+1. 🎉 Merged PR [#1](https://github.com/SubhadipJana1409/Biomarker-Discovery-with-SHAP/pull/1) in [SubhadipJana1409/Biomarker-Discovery-with-SHAP](https://github.com/SubhadipJana1409/Biomarker-Discovery-with-SHAP)
 <!--END_SECTION:activity-->
 
 ---
