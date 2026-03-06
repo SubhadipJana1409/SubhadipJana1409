@@ -103,11 +103,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
-| [Bulk-RNA-seq-differential-expression](https://github.com/SubhadipJana1409/Bulk-RNA-seq-differential-expression) | — | — | today |
-| [Microbiome-based-Disease-Classifie](https://github.com/SubhadipJana1409/Microbiome-based-Disease-Classifie) | — | Python | today |
-| [scRNA-gut-clustering](https://github.com/SubhadipJana1409/scRNA-gut-clustering) | — | Python | today |
-| [Biomarker-Discovery-with-SHAP](https://github.com/SubhadipJana1409/Biomarker-Discovery-with-SHAP) | — | Python | 1 day ago |
-| [AMR-Phenotype-Predictor](https://github.com/SubhadipJana1409/AMR-Phenotype-Predictor) | — | Python | 1 day ago |
+| [AutoML-Pipeline](https://github.com/SubhadipJana1409/AutoML-Pipeline) | — | Python | today |
+| [Drug-Resistance-Mutation-Predictor](https://github.com/SubhadipJana1409/Drug-Resistance-Mutation-Predictor) | — | Python | today |
+| [Anomaly-Detection-in-Microbiome](https://github.com/SubhadipJana1409/Anomaly-Detection-in-Microbiome) | — | Python | today |
+| [Transfer-Learning-on-Microbiome-Data](https://github.com/SubhadipJana1409/Transfer-Learning-on-Microbiome-Data) | — | Python | today |
+| [Bulk-RNA-seq-differential-expression](https://github.com/SubhadipJana1409/Bulk-RNA-seq-differential-expression) | — | — | 1 day ago |
 <!--END_SECTION:repos-->
 
 ---
