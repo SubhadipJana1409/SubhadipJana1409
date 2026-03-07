@@ -103,11 +103,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
+| [Biomarker-Discovery-with-SHAP](https://github.com/SubhadipJana1409/Biomarker-Discovery-with-SHAP) | — | Python | today |
 | [AutoML-Pipeline](https://github.com/SubhadipJana1409/AutoML-Pipeline) | — | Python | today |
 | [Drug-Resistance-Mutation-Predictor](https://github.com/SubhadipJana1409/Drug-Resistance-Mutation-Predictor) | — | Python | today |
 | [Anomaly-Detection-in-Microbiome](https://github.com/SubhadipJana1409/Anomaly-Detection-in-Microbiome) | — | Python | today |
 | [Transfer-Learning-on-Microbiome-Data](https://github.com/SubhadipJana1409/Transfer-Learning-on-Microbiome-Data) | — | Python | today |
-| [Bulk-RNA-seq-differential-expression](https://github.com/SubhadipJana1409/Bulk-RNA-seq-differential-expression) | — | — | 1 day ago |
 <!--END_SECTION:repos-->
 
 ---
