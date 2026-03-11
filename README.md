@@ -103,11 +103,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
-| [30DaysOfBioinformatics-Portfolio](https://github.com/SubhadipJana1409/30DaysOfBioinformatics-Portfolio) | — | HTML | 1 day ago |
-| [Bulk-RNA-seq-differential-expression](https://github.com/SubhadipJana1409/Bulk-RNA-seq-differential-expression) | — | Python | 2 days ago |
-| [Phage-Bacteria-Interaction-Finder](https://github.com/SubhadipJana1409/Phage-Bacteria-Interaction-Finder) | — | Python | 3 days ago |
-| [Metagenome-Assembled-Genome-Pipeline](https://github.com/SubhadipJana1409/Metagenome-Assembled-Genome-Pipeline) | — | Python | 3 days ago |
-| [Functional-Gene-Annotation-Pipeline](https://github.com/SubhadipJana1409/Functional-Gene-Annotation-Pipeline) | — | Python | 3 days ago |
+| [30DaysOfBioinformatics-Portfolio](https://github.com/SubhadipJana1409/30DaysOfBioinformatics-Portfolio) | — | HTML | today |
+| [Bulk-RNA-seq-differential-expression](https://github.com/SubhadipJana1409/Bulk-RNA-seq-differential-expression) | — | Python | 3 days ago |
+| [Phage-Bacteria-Interaction-Finder](https://github.com/SubhadipJana1409/Phage-Bacteria-Interaction-Finder) | — | Python | 4 days ago |
+| [Metagenome-Assembled-Genome-Pipeline](https://github.com/SubhadipJana1409/Metagenome-Assembled-Genome-Pipeline) | — | Python | 4 days ago |
+| [Functional-Gene-Annotation-Pipeline](https://github.com/SubhadipJana1409/Functional-Gene-Annotation-Pipeline) | — | Python | 4 days ago |
 <!--END_SECTION:repos-->
 
 ---
