@@ -104,7 +104,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
 | [Raw-Read-Quality-Control-with-FastQC-MultiQC](https://github.com/SubhadipJana1409/Raw-Read-Quality-Control-with-FastQC-MultiQC) | — | HTML | today |
-| [30DaysOfBioinformatics-Portfolio](https://github.com/SubhadipJana1409/30DaysOfBioinformatics-Portfolio) | — | HTML | 3 days ago |
+| [30DaysOfBioinformatics-Portfolio](https://github.com/SubhadipJana1409/30DaysOfBioinformatics-Portfolio) | — | HTML | 4 days ago |
 | [Bulk-RNA-seq-differential-expression](https://github.com/SubhadipJana1409/Bulk-RNA-seq-differential-expression) | — | Python | 7 days ago |
 | [Phage-Bacteria-Interaction-Finder](https://github.com/SubhadipJana1409/Phage-Bacteria-Interaction-Finder) | — | Python | 8 days ago |
 | [Metagenome-Assembled-Genome-Pipeline](https://github.com/SubhadipJana1409/Metagenome-Assembled-Genome-Pipeline) | — | Python | 8 days ago |
