@@ -21,12 +21,6 @@ I'm a **bioinformatics researcher** passionate about uncovering the hidden world
 
 My work sits at the intersection of **metagenomics**, **multi-omics integration**, and **machine learning**, where I build reproducible pipelines to answer biological questions from sequencing data.
 
-- 🔬 **Research focus:** Gut microbiome, antibiotic resistance genes (ARGs), metagenomic profiling
-- 🤖 **ML for Biology:** Transcriptomics, DGE analysis, NLP on biomedical literature
-- 🌊 **Recent work:** Antibiotic resistance in the Mahananda River using eDNA metagenomics
-- 📖 **M.Sc. Biotechnology** — University of North Bengal
-- 🏆 **Swami Vivekananda Merit-cum-Means Scholar** (UG + PG + HS levels)
-- 🌐 **Member**, American Society for Microbiology — Global Outreach contributor
 
 ---
 
