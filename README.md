@@ -99,7 +99,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 |------------|-------------|----------|---------|
 | [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | today |
 | [Reference-Genome-Alignment](https://github.com/SubhadipJana1409/Reference-Genome-Alignment) | — | Python | 3 days ago |
-| [30DaysOfBioinformatics-Portfolio](https://github.com/SubhadipJana1409/30DaysOfBioinformatics-Portfolio) | — | HTML | 3 days ago |
+| [30DaysOfBioinformatics-Portfolio](https://github.com/SubhadipJana1409/30DaysOfBioinformatics-Portfolio) | — | HTML | 4 days ago |
 | [Raw-Read-Quality-Control-with-FastQC-MultiQC](https://github.com/SubhadipJana1409/Raw-Read-Quality-Control-with-FastQC-MultiQC) | — | HTML | 5 days ago |
 | [Bulk-RNA-seq-differential-expression](https://github.com/SubhadipJana1409/Bulk-RNA-seq-differential-expression) | — | Python | 12 days ago |
 <!--END_SECTION:repos-->
