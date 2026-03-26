@@ -87,7 +87,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SubhadipJana1409/Biomarker-Discovery-with-SHAP/pull/1) in [SubhadipJana1409/Biomarker-Discovery-with-SHAP](https://github.com/SubhadipJana1409/Biomarker-Discovery-with-SHAP)
+1. ❗ Opened issue [#4218](https://github.com/Bioconductor/Contributions/issues/4218) in [Bioconductor/Contributions](https://github.com/Bioconductor/Contributions)
 <!--END_SECTION:activity-->
 
 ---
