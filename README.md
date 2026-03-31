@@ -87,7 +87,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4218](https://github.com/Bioconductor/Contributions/issues/4218) in [Bioconductor/Contributions](https://github.com/Bioconductor/Contributions)
+1. ❗ Opened issue [#4228](https://github.com/Bioconductor/Contributions/issues/4228) in [Bioconductor/Contributions](https://github.com/Bioconductor/Contributions)
 <!--END_SECTION:activity-->
 
 ---
