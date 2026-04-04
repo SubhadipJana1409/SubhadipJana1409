@@ -110,11 +110,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 
 <!--START_SECTION:blog-posts-->
 <!-- BLOG-POST-LIST:START -->
+- 📄 [RNAElectra: The AI Model That Might Finally Crack RNA’s Regulatory Code](https://medium.com/@subhadipjana1409/rnaelectra-the-ai-model-that-might-finally-crack-rnas-regulatory-code-5ef843f3da73?source=rss-c594b02fa20f------2) — 1818 DD, 2026
 - 📄 [Finding Needles in a Haystack: How an “Ensemble” AI is Revolutionizing Gene Discovery for Diseases…](https://medium.com/@subhadipjana1409/finding-needles-in-a-haystack-how-an-ensemble-ai-is-revolutionizing-gene-discovery-for-diseases-97740779026f?source=rss-c594b02fa20f------2) — 5050 DD, 2026
 - 📄 [The Data Scientist’s Guide to Saving Species: How a New Tool is Structuring the World’s…](https://medium.com/@subhadipjana1409/the-data-scientists-guide-to-saving-species-how-a-new-tool-is-structuring-the-world-s-75d56d2004a5?source=rss-c594b02fa20f------2) — 4646 DD, 2026
 - 📄 [The Ghost in Your Genome: How AI is Finally Solving the Mystery of Your Ancestral GPS](https://medium.com/@subhadipjana1409/the-ghost-in-your-genome-how-ai-is-finally-solving-the-mystery-of-your-ancestral-gps-8d0ad55180ab?source=rss-c594b02fa20f------2) — 4747 DD, 2026
-- 📄 [What’s Next After CAR-T?](https://medium.com/@subhadipjana1409/whats-next-after-car-t-874c7ffc13bf?source=rss-c594b02fa20f------2) — 1717 DD, 2025
-- 📄 [CAR-T Cell Therapy: Engineering Immunity Against Cancer](https://medium.com/@subhadipjana1409/car-t-cell-therapy-engineering-immunity-against-cancer-ba5d823943a7?source=rss-c594b02fa20f------2) — 1414 DD, 2025<!-- BLOG-POST-LIST:END -->
+- 📄 [What’s Next After CAR-T?](https://medium.com/@subhadipjana1409/whats-next-after-car-t-874c7ffc13bf?source=rss-c594b02fa20f------2) — 1717 DD, 2025<!-- BLOG-POST-LIST:END -->
 <!--END_SECTION:blog-posts-->
 
 ---
