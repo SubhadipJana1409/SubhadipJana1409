@@ -98,10 +98,10 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
 | [GlucoLens](https://github.com/SubhadipJana1409/GlucoLens) | — | JavaScript | today |
-| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | 6 days ago |
+| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | 7 days ago |
 | [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | 11 days ago |
-| [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 17 days ago |
-| [Reference-Genome-Alignment](https://github.com/SubhadipJana1409/Reference-Genome-Alignment) | — | Python | 20 days ago |
+| [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 18 days ago |
+| [Reference-Genome-Alignment](https://github.com/SubhadipJana1409/Reference-Genome-Alignment) | — | Python | 21 days ago |
 <!--END_SECTION:repos-->
 
 ---
