@@ -110,11 +110,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 
 <!--START_SECTION:blog-posts-->
 <!-- BLOG-POST-LIST:START -->
+- 📄 [The Krylov Lens: Decoding Biological Network Influence Propagation](https://medium.com/@subhadipjana1409/the-krylov-lens-decoding-biological-network-influence-propagation-5ab08c702d81?source=rss-c594b02fa20f------2) — 5353 DD, 2026
 - 📄 [The CryoEM Resolution Revolution: Why Your Maps Need a Local Upgrade](https://medium.com/@subhadipjana1409/the-cryoem-resolution-revolution-why-your-maps-need-a-local-upgrade-b48f7cc5b03a?source=rss-c594b02fa20f------2) — 033 DD, 2026
 - 📄 [The Cancer Risk Puzzle: How ExposoGraph Connects the Dots](https://medium.com/@subhadipjana1409/the-cancer-risk-puzzle-how-exposograph-connects-the-dots-b26a69af5716?source=rss-c594b02fa20f------2) — 3434 DD, 2026
 - 📄 [Beyond Pairwise: How a 4D Tensor Unravels the Hidden Symphony of Tri-Omics Data](https://medium.com/@subhadipjana1409/beyond-pairwise-how-a-4d-tensor-unravels-the-hidden-symphony-of-tri-omics-data-16aeff16d7aa?source=rss-c594b02fa20f------2) — 044 DD, 2026
-- 📄 [RNAElectra: The AI Model That Might Finally Crack RNA’s Regulatory Code](https://medium.com/@subhadipjana1409/rnaelectra-the-ai-model-that-might-finally-crack-rnas-regulatory-code-5ef843f3da73?source=rss-c594b02fa20f------2) — 1818 DD, 2026
-- 📄 [Finding Needles in a Haystack: How an “Ensemble” AI is Revolutionizing Gene Discovery for Diseases…](https://medium.com/@subhadipjana1409/finding-needles-in-a-haystack-how-an-ensemble-ai-is-revolutionizing-gene-discovery-for-diseases-97740779026f?source=rss-c594b02fa20f------2) — 5050 DD, 2026<!-- BLOG-POST-LIST:END -->
+- 📄 [RNAElectra: The AI Model That Might Finally Crack RNA’s Regulatory Code](https://medium.com/@subhadipjana1409/rnaelectra-the-ai-model-that-might-finally-crack-rnas-regulatory-code-5ef843f3da73?source=rss-c594b02fa20f------2) — 1818 DD, 2026<!-- BLOG-POST-LIST:END -->
 <!--END_SECTION:blog-posts-->
 
 ---
