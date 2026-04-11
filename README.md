@@ -97,7 +97,7 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
-| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | 1 day ago |
+| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | 2 days ago |
 | [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | 2 days ago |
 | [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 22 days ago |
 | [Reference-Genome-Alignment](https://github.com/SubhadipJana1409/Reference-Genome-Alignment) | — | Python | 25 days ago |
