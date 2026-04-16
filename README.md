@@ -100,8 +100,8 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 | [Drug-Resistance-Mutation-Predictor](https://github.com/SubhadipJana1409/Drug-Resistance-Mutation-Predictor) | — | Python | 3 days ago |
 | [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | 6 days ago |
 | [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | 7 days ago |
-| [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 26 days ago |
-| [Reference-Genome-Alignment](https://github.com/SubhadipJana1409/Reference-Genome-Alignment) | — | Python | 29 days ago |
+| [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 27 days ago |
+| [Reference-Genome-Alignment](https://github.com/SubhadipJana1409/Reference-Genome-Alignment) | — | Python | 1 month ago |
 <!--END_SECTION:repos-->
 
 ---
