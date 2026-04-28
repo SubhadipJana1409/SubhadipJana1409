@@ -110,11 +110,11 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 
 <!--START_SECTION:blog-posts-->
 <!-- BLOG-POST-LIST:START -->
+- 📄 [Your Genome’s Junk Drawer Just got a universal planner](https://medium.com/@subhadipjana1409/your-genomes-junk-drawer-just-got-a-universal-planner-1eedd94b3ac6?source=rss-c594b02fa20f------2) — 5757 DD, 2026
+- 📄 [Your Gene Coercion Playbook: Mining Cancer Dependencies Without the Wet Lab](https://medium.com/@subhadipjana1409/your-gene-coercion-playbook-mining-cancer-dependencies-without-the-wet-lab-c39883452bfd?source=rss-c594b02fa20f------2) — 3131 DD, 2026
 - 📄 [The Krylov Lens: Decoding Biological Network Influence Propagation](https://medium.com/@subhadipjana1409/the-krylov-lens-decoding-biological-network-influence-propagation-5ab08c702d81?source=rss-c594b02fa20f------2) — 5353 DD, 2026
 - 📄 [The CryoEM Resolution Revolution: Why Your Maps Need a Local Upgrade](https://medium.com/@subhadipjana1409/the-cryoem-resolution-revolution-why-your-maps-need-a-local-upgrade-b48f7cc5b03a?source=rss-c594b02fa20f------2) — 033 DD, 2026
-- 📄 [The Cancer Risk Puzzle: How ExposoGraph Connects the Dots](https://medium.com/@subhadipjana1409/the-cancer-risk-puzzle-how-exposograph-connects-the-dots-b26a69af5716?source=rss-c594b02fa20f------2) — 3434 DD, 2026
-- 📄 [Beyond Pairwise: How a 4D Tensor Unravels the Hidden Symphony of Tri-Omics Data](https://medium.com/@subhadipjana1409/beyond-pairwise-how-a-4d-tensor-unravels-the-hidden-symphony-of-tri-omics-data-16aeff16d7aa?source=rss-c594b02fa20f------2) — 044 DD, 2026
-- 📄 [RNAElectra: The AI Model That Might Finally Crack RNA’s Regulatory Code](https://medium.com/@subhadipjana1409/rnaelectra-the-ai-model-that-might-finally-crack-rnas-regulatory-code-5ef843f3da73?source=rss-c594b02fa20f------2) — 1818 DD, 2026<!-- BLOG-POST-LIST:END -->
+- 📄 [The Cancer Risk Puzzle: How ExposoGraph Connects the Dots](https://medium.com/@subhadipjana1409/the-cancer-risk-puzzle-how-exposograph-connects-the-dots-b26a69af5716?source=rss-c594b02fa20f------2) — 3434 DD, 2026<!-- BLOG-POST-LIST:END -->
 <!--END_SECTION:blog-posts-->
 
 ---
