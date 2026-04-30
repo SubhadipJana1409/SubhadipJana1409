@@ -97,10 +97,10 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
-| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | today |
+| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | 1 day ago |
 | [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | 1 day ago |
-| [scCompoundDE](https://github.com/SubhadipJana1409/scCompoundDE) | — | R | 2 days ago |
-| [Drug-Resistance-Mutation-Predictor](https://github.com/SubhadipJana1409/Drug-Resistance-Mutation-Predictor) | — | Python | 17 days ago |
+| [scCompoundDE](https://github.com/SubhadipJana1409/scCompoundDE) | — | R | 3 days ago |
+| [Drug-Resistance-Mutation-Predictor](https://github.com/SubhadipJana1409/Drug-Resistance-Mutation-Predictor) | — | Python | 18 days ago |
 | [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 1 month ago |
 <!--END_SECTION:repos-->
 
