@@ -98,8 +98,8 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
 | [scCompoundDE](https://github.com/SubhadipJana1409/scCompoundDE) | — | R | today |
-| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | today |
-| [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | today |
+| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | 1 day ago |
+| [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | 1 day ago |
 | [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 2 days ago |
 | [Ambient_RNA_Decontamination](https://github.com/SubhadipJana1409/Ambient_RNA_Decontamination) | Day 1: Ambient RNA Decontamination Benchmarking - CellBender vs DecontX vs SoupX | Jupyter Notebook | 3 days ago |
 <!--END_SECTION:repos-->
