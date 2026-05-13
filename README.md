@@ -99,9 +99,9 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 |------------|-------------|----------|---------|
 | [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | today |
 | [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | today |
-| [MultiOmicsBridge](https://github.com/SubhadipJana1409/MultiOmicsBridge) | — | R | today |
+| [MultiOmicsBridge](https://github.com/SubhadipJana1409/MultiOmicsBridge) | — | R | 1 day ago |
 | [scCompoundDE](https://github.com/SubhadipJana1409/scCompoundDE) | — | R | 7 days ago |
-| [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 9 days ago |
+| [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 10 days ago |
 <!--END_SECTION:repos-->
 
 ---
