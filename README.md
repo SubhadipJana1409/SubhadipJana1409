@@ -97,8 +97,8 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
-| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | 4 days ago |
-| [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | 4 days ago |
+| [scFastDE](https://github.com/SubhadipJana1409/scFastDE) | — | R | 5 days ago |
+| [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | 5 days ago |
 | [MultiOmicsBridge](https://github.com/SubhadipJana1409/MultiOmicsBridge) | — | R | 5 days ago |
 | [scCompoundDE](https://github.com/SubhadipJana1409/scCompoundDE) | — | R | 12 days ago |
 | [subhadipjana1409.github.io](https://github.com/SubhadipJana1409/subhadipjana1409.github.io) | — | JavaScript | 14 days ago |
