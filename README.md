@@ -98,10 +98,10 @@ My work sits at the intersection of **metagenomics**, **multi-omics integration*
 | Repository | Description | Language | Updated |
 |------------|-------------|----------|---------|
 | [scBatchQC](https://github.com/SubhadipJana1409/scBatchQC) | — | R | 6 days ago |
-| [scCompoundDE](https://github.com/SubhadipJana1409/scCompoundDE) | — | R | 9 days ago |
-| [MultiOmicsBridge](https://github.com/SubhadipJana1409/MultiOmicsBridge) | — | R | 9 days ago |
-| [IBD-Multi-Omics-Analysis](https://github.com/SubhadipJana1409/IBD-Multi-Omics-Analysis) | — | R | 9 days ago |
-| [ecoli_genome_project](https://github.com/SubhadipJana1409/ecoli_genome_project) | QC & Genome Assembly of E. coli | — | 9 days ago |
+| [scCompoundDE](https://github.com/SubhadipJana1409/scCompoundDE) | — | R | 10 days ago |
+| [MultiOmicsBridge](https://github.com/SubhadipJana1409/MultiOmicsBridge) | — | R | 10 days ago |
+| [IBD-Multi-Omics-Analysis](https://github.com/SubhadipJana1409/IBD-Multi-Omics-Analysis) | — | R | 10 days ago |
+| [ecoli_genome_project](https://github.com/SubhadipJana1409/ecoli_genome_project) | QC & Genome Assembly of E. coli | — | 10 days ago |
 <!--END_SECTION:repos-->
 
 ---
